@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swatantra Singh</h1>
 <h3 align="center">A passionate A.I. Enthusiats from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 - 🔭 I’m currently working on **Transformer learning capabilities.**
 
